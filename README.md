@@ -8,3 +8,5 @@ To clone this repository run "git clone https://github.com/UW-ESS-DS/MLGEO2022_m
 My choice of liscensing is MIT.
 
 ![image](https://user-images.githubusercontent.com/108081518/195491136-844b4127-62c8-4e27-b974-8e5d3342b6c4.png)
+![image](https://user-images.githubusercontent.com/108081518/195491408-617a6d83-ca8e-4be7-a2a7-66d05ec134d6.png)
+
