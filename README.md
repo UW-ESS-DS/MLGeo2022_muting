@@ -5,4 +5,4 @@ My favorite earth science topic: tropical weather and climate
 
 To clone this repository run "git clone https://github.com/UW-ESS-DS/MLGEO2022_muting" in the terminal.
 
-My choice of liscensing is 
+My choice of liscensing is MIT.
